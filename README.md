@@ -143,11 +143,7 @@ permalink: /
 
 <section class="hero">
   <h1>3DS Homebrew Hub</h1>
-  <p>Four essential utilities with curated walkthroughs, presented as a living reference for anyone building a modded Nintendo 3DS setup.</p>
-  <div class="hero-ctas">
-    <a class="btn btn-primary" href="#hshop">Explore Guides</a>
-    <a class="btn btn-secondary" href="#hshop">Jump to Guides</a>
-  </div>
+  <p>Four essential utilities with brief walkthroughs, presented as a living reference for anyone building a modded Nintendo 3DS setup.</p>
 </section>
 
 <section id="hshop" class="detail">
