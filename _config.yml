@@ -1,0 +1,8 @@
+title: "3DS Homebrew Hub"
+description: "Curated instructions for the essential Nintendo 3DS homebrew utilities, presented as a single-page mini site for GitHub Pages."
+defaults:
+  - scope:
+      path: "README.md"
+    values:
+      layout: "default"
+      permalink: /

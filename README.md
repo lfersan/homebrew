@@ -1,10 +1,3 @@
----
-layout: default
-title: 'py-build-cmake'
-description: Curated instructions for the essential Nintendo 3DS homebrew utilities, presented as a single-page mini site for GitHub Pages.
-permalink: /
----
-
 <style>
 :root {
   --primary: #e63946;
