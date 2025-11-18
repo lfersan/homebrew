@@ -6,6 +6,9 @@
   --card: #f7f7fa;
   --border: #e2e6ea;
 }
+.page-header {
+  display: none !important;
+}
 .hero {
   padding: 3.5rem 1.5rem 2rem;
   background: linear-gradient(145deg, #0d1b2a, #1b263b 60%, #415a77);
