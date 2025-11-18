@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3DS Homebrew Hub
+title: 'py-build-cmake'
 description: Curated instructions for the essential Nintendo 3DS homebrew utilities, presented as a single-page mini site for GitHub Pages.
 permalink: /
 ---
@@ -30,6 +30,7 @@ permalink: /
 .hero h1 {
   margin: 0.5rem 0 1rem;
   font-size: clamp(2.4rem, 4vw, 3.7rem);
+  color: var(--primary);
 }
 .hero p {
   margin: 0 auto 1.5rem;
