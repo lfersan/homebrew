@@ -142,7 +142,6 @@ permalink: /
 </style>
 
 <section class="hero">
-  <p class="eyebrow">GitHub Pages Mini Site</p>
   <h1>3DS Homebrew Hub</h1>
   <p>Four essential utilities with curated walkthroughs, presented as a living reference for anyone building a modded Nintendo 3DS setup.</p>
   <div class="hero-ctas">
@@ -150,21 +149,6 @@ permalink: /
     <a class="btn btn-secondary" href="#hshop">Jump to Guides</a>
   </div>
 </section>
-
-<div class="stat-row">
-  <div class="stat">
-    <strong>4</strong>
-    Essential apps featured
-  </div>
-  <div class="stat">
-    <strong>15+</strong>
-    Guided steps documented
-  </div>
-  <div class="stat">
-    <strong>100%</strong>
-    Jekyll-ready layout
-  </div>
-</div>
 
 ## Tool Deck
 
@@ -291,9 +275,3 @@ permalink: /
     </aside>
   </div>
 </section>
-
-<div class="cta-banner">
-  <h2>Extend the Hub</h2>
-  <p>Want to showcase more tools, embed screenshots, or link out to starter packs? Add a new section, drop an include, or plug in Liquid data - Jekyll handles it all.</p>
-  <a class="btn btn-secondary" href="https://jekyllrb.com/docs/" target="_blank" rel="noreferrer">View Jekyll docs</a>
-</div>
