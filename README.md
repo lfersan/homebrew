@@ -145,39 +145,10 @@ permalink: /
   <h1>3DS Homebrew Hub</h1>
   <p>Four essential utilities with curated walkthroughs, presented as a living reference for anyone building a modded Nintendo 3DS setup.</p>
   <div class="hero-ctas">
-    <a class="btn btn-primary" href="#tools">Explore Tools</a>
+    <a class="btn btn-primary" href="#hshop">Explore Guides</a>
     <a class="btn btn-secondary" href="#hshop">Jump to Guides</a>
   </div>
 </section>
-
-## Tool Deck
-
-<div id="tools" class="tool-grid">
-  <article class="card">
-    <p class="eyebrow">Storefront</p>
-    <h3>hShop</h3>
-    <p>Browse, download, and install titles or themes straight to the console with regional filtering.</p>
-    <a href="#hshop">Open hShop guide -></a>
-  </article>
-  <article class="card">
-    <p class="eyebrow">Customization</p>
-    <h3>Anemone3DS</h3>
-    <p>Scan SD themes, preview, and one-tap install with shuffle and randomize extras.</p>
-    <a href="#anemone">Style with Anemone -></a>
-  </article>
-  <article class="card">
-    <p class="eyebrow">Locale Control</p>
-    <h3>LumaLocaleSwitcher</h3>
-    <p>Lock any title to a specific region/language combo so imports behave like native releases.</p>
-    <a href="#luma">Set locales -></a>
-  </article>
-  <article class="card">
-    <p class="eyebrow">File Manager</p>
-    <h3>FBI</h3>
-    <p>Install CIA files from the SD card, audit tickets, and manage homebrew content.</p>
-    <a href="#fbi">Install with FBI -></a>
-  </article>
-</div>
 
 <section id="hshop" class="detail">
   <header>
